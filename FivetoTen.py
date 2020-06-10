@@ -40,3 +40,4 @@ if __name__ == "__main__":
     print(re)
     re = fiveToTen(240)
     print(re)
+    print('************************************************')
